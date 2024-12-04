@@ -1,3 +1,15 @@
 [submodule "mimalloc-bench"]
 	path = mimalloc-bench
 	url = https://github.com/daanx/mimalloc-bench.git
+[submodule "GarbageCollectorBenchmark"]
+	path = GarbageCollectorBenchmark
+	url = https://github.com/KLamkiewicz/GarbageCollectorBenchmark.git
+[submodule "STREAM"]
+	path = STREAM
+	url = https://github.com/jeffhammond/STREAM
+[submodule "renaissance"]
+	path = renaissance
+	url = https://github.com/renaissance-benchmarks/renaissance/
+[submodule "dacapobench"]
+	path = dacapobench
+	url = https://github.com/dacapobench/dacapobench.git
