@@ -13,3 +13,7 @@
 [submodule "dacapobench"]
 	path = dacapobench
 	url = https://github.com/dacapobench/dacapobench.git
+[submodule "jvm-performance-benchmarks"]
+	path = jvm-performance-benchmarks
+	url = https://github.com/ionutbalosin/jvm-performance-benchmarks.git
+
